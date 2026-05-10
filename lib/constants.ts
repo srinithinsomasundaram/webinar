@@ -1,6 +1,6 @@
 export const webinarDetails = {
   eventName: "Build & Deploy a Micro SaaS Using AI",
-  dateLabel: "Sunday, May 16",
+  dateLabel: "Saturday, May 16",
   timeLabel: "11:00 AM - 2:00 PM IST",
   amountInRupees: 99,
   amountInPaise: 9900,
